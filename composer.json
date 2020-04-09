@@ -1,0 +1,23 @@
+{
+    "name": "tanson/sdb",
+    "description": "get pdo and redis single instance",
+    "type": "project",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tanson",
+            "email": "605470805@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+	"autoload": {
+        "files": [
+        ],
+        "psr-4": {
+            "sdb\\": "src/sdb/"
+        }
+    }
+}
