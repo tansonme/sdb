@@ -1,5 +1,5 @@
 {
-    "name": "tanson/sdb",
+    "name": "tansonme/sdb",
     "description": "get pdo and redis single instance",
     "type": "project",
     "require": {
